@@ -10,14 +10,8 @@ import json
 from lista_esquinas import ListaEsquinas
 
 if __name__ == "__main__":
-    data = [
-
-        '1000, "52707", "52707001", "5270700103781", "CENTRAL CHIAPAS O", "", -92.680050, 15.341500',
-        '821, "52707", "52707001", "5270700103781", "", "CENTRAL CHIAPAS O", -92.680050, 15.341500',
-        '1123, "52707", "52707001", "5270700103782", "AVENIDA 16 DE SEPTIEMBRE N", "TABASCO", -92.669740, 15.346070',
-        '1001, "52707", "52707001", "5270700103782", "TABASCO", "AVENIDA 16 DE SEPTIEMBRE N", -92.669740, 15.346070',
-    ]
     li = ListaEsquinas("CAT_ESQUINAS.txt")
+    print(f"Total of rows: {li.count}")
     for item in li.get_data(4):
         print(item.id)
 
