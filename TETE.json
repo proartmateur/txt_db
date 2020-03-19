@@ -1,0 +1,322 @@
+[
+  {
+    "id": 422,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103752",
+    "street_name": "CAMINO A OVANDO",
+    "corner_name": "AVENIDA CENTRAL MIGUEL HIDALGO N",
+    "cx": -92.66998,
+    "cy": 15.35544
+  },
+  {
+    "id": 563,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103752",
+    "street_name": "AVENIDA CENTRAL MIGUEL HIDALGO N",
+    "corner_name": "CAMINO A OVANDO",
+    "cx": -92.66998,
+    "cy": 15.35544
+  },
+  {
+    "id": 751,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103779",
+    "street_name": "NUEVO LE\u00d3N O",
+    "corner_name": "CAMINO A JALAPA",
+    "cx": -92.68198,
+    "cy": 15.35051
+  },
+  {
+    "id": 799,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103779",
+    "street_name": "CAMINO A JALAPA",
+    "corner_name": "NUEVO LE\u00d3N O",
+    "cx": -92.68198,
+    "cy": 15.35051
+  },
+  {
+    "id": 821,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103781",
+    "street_name": "",
+    "corner_name": "CENTRAL CHIAPAS O",
+    "cx": -92.68005,
+    "cy": 15.3415
+  },
+  {
+    "id": 822,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103781",
+    "street_name": "CAMINO A JALAPA",
+    "corner_name": "NUEVO LE\u00d3N O",
+    "cx": -92.68198,
+    "cy": 15.35051
+  },
+  {
+    "id": 823,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103781",
+    "street_name": "NUEVO LE\u00d3N O",
+    "corner_name": "CAMINO A JALAPA",
+    "cx": -92.68198,
+    "cy": 15.35051
+  },
+  {
+    "id": 1000,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103781",
+    "street_name": "CENTRAL CHIAPAS O",
+    "corner_name": "",
+    "cx": -92.68005,
+    "cy": 15.3415
+  },
+  {
+    "id": 1001,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103782",
+    "street_name": "TABASCO",
+    "corner_name": "AVENIDA 16 DE SEPTIEMBRE N",
+    "cx": -92.66974,
+    "cy": 15.34607
+  },
+  {
+    "id": 1002,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103782",
+    "street_name": "AVENIDA CENTRAL MIGUEL HIDALGO N",
+    "corner_name": "CAMINO A OVANDO",
+    "cx": -92.66998,
+    "cy": 15.35544
+  },
+  {
+    "id": 1003,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103782",
+    "street_name": "CAMINO A OVANDO",
+    "corner_name": "AVENIDA CENTRAL MIGUEL HIDALGO N",
+    "cx": -92.66998,
+    "cy": 15.35544
+  },
+  {
+    "id": 1123,
+    "col1": "52707",
+    "col2": "52707001",
+    "cve": "5270700103782",
+    "street_name": "AVENIDA 16 DE SEPTIEMBRE N",
+    "corner_name": "TABASCO",
+    "cx": -92.66974,
+    "cy": 15.34607
+  },
+  {
+    "id": 2205,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203319",
+    "street_name": "4TA AV NORTE E",
+    "corner_name": "3RA AV ORIENTE N",
+    "cx": -92.8026,
+    "cy": 16.55749
+  },
+  {
+    "id": 2337,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203319",
+    "street_name": "3RA AV ORIENTE N",
+    "corner_name": "4TA AV NORTE E",
+    "cx": -92.8026,
+    "cy": 16.55749
+  },
+  {
+    "id": 2480,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203321",
+    "street_name": "",
+    "corner_name": "4TA AV SUR E",
+    "cx": -92.80811,
+    "cy": 16.55201
+  },
+  {
+    "id": 2639,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203321",
+    "street_name": "4TA AV SUR E",
+    "corner_name": "",
+    "cx": -92.80811,
+    "cy": 16.55201
+  },
+  {
+    "id": 2668,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203345",
+    "street_name": "4TA AV NORTE E",
+    "corner_name": "3RA AV ORIENTE N",
+    "cx": -92.8026,
+    "cy": 16.55749
+  },
+  {
+    "id": 2831,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203345",
+    "street_name": "3RA AV ORIENTE N",
+    "corner_name": "4TA AV NORTE E",
+    "cx": -92.8026,
+    "cy": 16.55749
+  },
+  {
+    "id": 2966,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203348",
+    "street_name": "RAFAEL COELLO",
+    "corner_name": "AVENIDA JOAQU\u00cdN RU\u00cdZ CORZO",
+    "cx": -92.80787,
+    "cy": 16.55856
+  },
+  {
+    "id": 2967,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203348",
+    "street_name": "GUADALUPE COELLO",
+    "corner_name": "",
+    "cx": -92.81038,
+    "cy": 16.56024
+  },
+  {
+    "id": 2968,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203348",
+    "street_name": "",
+    "corner_name": "GUADALUPE COELLO",
+    "cx": -92.81038,
+    "cy": 16.56024
+  },
+  {
+    "id": 3122,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203348",
+    "street_name": "AVENIDA JOAQU\u00cdN RU\u00cdZ CORZO",
+    "corner_name": "RAFAEL COELLO",
+    "cx": -92.80787,
+    "cy": 16.55856
+  },
+  {
+    "id": 3181,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "CAMINO A CERRO JOCOTE",
+    "corner_name": "5TA CALLE NORTE E",
+    "cx": -92.88976,
+    "cy": 16.54
+  },
+  {
+    "id": 3182,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "5TA CALLE PONIENTE S",
+    "corner_name": "3RA CALLE SUR O",
+    "cx": -92.89998,
+    "cy": 16.54402
+  },
+  {
+    "id": 3183,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "3RA CALLE SUR O",
+    "corner_name": "5TA CALLE PONIENTE S",
+    "cx": -92.89998,
+    "cy": 16.54402
+  },
+  {
+    "id": 3184,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "5TA CALLE NORTE O",
+    "corner_name": "2DA CALLE PONIENTE N",
+    "cx": -92.89191,
+    "cy": 16.54404
+  },
+  {
+    "id": 3185,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "2DA CALLE PONIENTE N",
+    "corner_name": "5TA CALLE NORTE O",
+    "cx": -92.89191,
+    "cy": 16.54404
+  },
+  {
+    "id": 3186,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "4TA CALLE SUR E",
+    "corner_name": "",
+    "cx": -92.89778,
+    "cy": 16.53348
+  },
+  {
+    "id": 3187,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "",
+    "corner_name": "4TA CALLE SUR E",
+    "cx": -92.89778,
+    "cy": 16.53348
+  },
+  {
+    "id": 3525,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203351",
+    "street_name": "5TA CALLE NORTE E",
+    "corner_name": "CAMINO A CERRO JOCOTE",
+    "cx": -92.88976,
+    "cy": 16.54
+  },
+  {
+    "id": 3673,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203385",
+    "street_name": "AVENIDA CENTRAL O",
+    "corner_name": "CARRETERA CHIAPA DE CORZO-ACALA",
+    "cx": -92.81766,
+    "cy": 16.55676
+  },
+  {
+    "id": 3845,
+    "col1": "52707",
+    "col2": "52707002",
+    "cve": "5270700203385",
+    "street_name": "CARRETERA CHIAPA DE CORZO-ACALA",
+    "corner_name": "AVENIDA CENTRAL O",
+    "cx": -92.81766,
+    "cy": 16.55676
+  }
+]

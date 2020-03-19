@@ -1,0 +1,1 @@
+Select CVEESQUINA,Street_Nam "CALLE", Street_N_1 "ESQUINA",CX,CY from TrazaEsquinas where Street_Nam <> Street_N_1 Group by CVEESQUINA,Street_Nam,Street_N_1,CX,CY  Into EsquinasUnicas
