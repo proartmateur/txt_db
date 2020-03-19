@@ -8,7 +8,7 @@ import json
 # 1000,"52707","52707001","5270700103781","CENTRAL CHIAPAS O","",-92.680050,15.341500
 
 from lista_esquinas import ListaEsquinas
-
+#from to_database import *
 if __name__ == "__main__":
     li = ListaEsquinas("CAT_ESQUINAS.txt")
     print(f"Total of rows: {li.count}")
@@ -25,4 +25,5 @@ if __name__ == "__main__":
     res = li.find_by_key("corner_name", "TABASCO")
     print(res.dictionary)
 
+    res.get_table_columns()
 

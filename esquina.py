@@ -51,3 +51,13 @@ class Esquina:
             self.col1 = self.dictionary["col1"]
             self.col2 = self.dictionary["col2"]
 
+    def get_table_columns(self):
+        for key in self.dictionary:
+            item = self.dictionary[key]
+            print(key, "--", item, "---", type(item))
+            if(type(item) == type(1)):
+                print("INTEGER")
+            elif (type(item) == type(1.0)):
+                print("REAL")
+            elif (type(item) == type("1")):
+                print("TEXT")
