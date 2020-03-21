@@ -61,3 +61,5 @@ class Esquina:
                 print("REAL")
             elif (type(item) == type("1")):
                 print("TEXT")
+
+
